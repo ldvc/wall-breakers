@@ -13,6 +13,7 @@ from .letelegramme import LeTelegrammeArticle
 from .lexpress import ExpressArticle
 from .liberation import LiberationArticle
 from .mediapart import MediapartArticle
+from .nature import NatureArticle
 from .nouvelobs import NouvelObsArticle
 from .nytimes import NYTimesArticle
 from .ouestfrance import OuestFranceArticle
@@ -66,7 +67,8 @@ PROVIDERS:list[Article] = [
     CanardEnchaineArticle,
     CharlieHebdoArticle,
     EquipeVideoArticle,
-    ScienceEtVieArticle
+    ScienceEtVieArticle,
+    NatureArticle
 ]
 
 ARTICLES:dict[str, Article] = {provider.SLUG: provider for provider in PROVIDERS}

@@ -40,6 +40,7 @@
 - [South China Morning Post](https://www.scmp.com/)
 - [EBRA Médias](https://www.ebra.fr/ebra-medias)
 - [Science et Vie](https://www.science-et-vie.com/)
+- [Nature](https://www.nature.com/)
 </details>
 
 ## Userscript

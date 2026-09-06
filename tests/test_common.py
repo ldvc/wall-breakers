@@ -186,6 +186,11 @@ ARTICLES = [
         ScienceEtVieArticle,
         "https://www.science-et-vie.com/corps-et-sante/cancer/une-seule-boisson-sucree-par-jour-pourrait-augmenter-de-145-le-risque-de-cancer-de-lestomac-257643.html",
         "257643"
+    ),
+    (
+        NatureArticle,
+        "https://www.nature.com/articles/d41586-026-02764-2",
+        "d41586-026-02764-2"
     )
 ]
 

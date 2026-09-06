@@ -48,7 +48,8 @@ URLS = [
     "https://www.lalsace.fr/economie/2026/08/26/le-kougelhopf-d-or-pour-francis-jamm-decroche-lors-de-la-foire-aux-vins",
     "https://www.lecanardenchaine.fr/environnement/54711-mais-qui-donc-aurait-pu-predire-toutes-ces-catastrophes",
     "https://charliehebdo.fr/2026/08/societe/faire-le-mont-blanc-pour-exister-comment-les-nouveaux-alpinistes-ruinent-la-montagne/",
-    "https://www.science-et-vie.com/corps-et-sante/cancer/une-seule-boisson-sucree-par-jour-pourrait-augmenter-de-145-le-risque-de-cancer-de-lestomac-257643.html"
+    "https://www.science-et-vie.com/corps-et-sante/cancer/une-seule-boisson-sucree-par-jour-pourrait-augmenter-de-145-le-risque-de-cancer-de-lestomac-257643.html",
+    "https://www.nature.com/articles/d41586-026-02764-2"
 ]
 
 if not IN_GITHUB_ACTIONS:
